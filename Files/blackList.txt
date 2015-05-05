@@ -1,0 +1,20 @@
+{
+"stopwords":[
+{ "word":"cette" },
+{"word":"Cette"},
+{ "word":"deux" },
+{ "word":"le" },
+{"word":"la"},
+{"word":"le"},
+{"word":"les"},
+{"word":"à"},
+{"word":"au"},
+{"word":"aux"},
+{"word":"Aux"},
+{"word":"fin"},
+{"word":"est"},
+{"word":"celles"},
+{"word":"par"},
+{"word":"Celle"}
+]
+}

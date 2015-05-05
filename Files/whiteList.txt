@@ -1,0 +1,10 @@
+{
+"whitewords":[
+{ "word":"Guebwiller",
+ "url":"http://dbpedia.org/resource/Guebwiller" 
+ },
+{"word":"Ammerschwihr",
+"url":"http://dbpedia.org/resource/Ammerschwihr"
+}
+]
+}
